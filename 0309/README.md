@@ -4,6 +4,7 @@
 
 https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi
 https://gymnasium.farama.org/environments/toy_text/blackjack/#references
+https://colab.research.google.com/drive/1F1AMphedn9nb0bGWEnyc4gi0z-6apFwJ#scrollTo=w2BsaXtWqpAp
 
 ### 지도학습 | 비지도학습 | 강화학습 | 머신러닝 | 딥러닝 | 보상 | 에이전트 | 환경 | 상태 | 정책
 

@@ -4,7 +4,7 @@
 
 https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi
 
-### 지도학습 | 비지도학습 | 강화학습 | 머신러닝 | 딥러닝 | 보상
+### 지도학습 | 비지도학습 | 강화학습 | 머신러닝 | 딥러닝 | 보상 | 에이전트 | 환경
 
 > ### 지도학습 vs 비지도학습
 > 정답 제공 vs 정답x 분류
@@ -14,3 +14,9 @@ https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi
 
 > ### 머신러닝 vs 딥러닝
 > 작은 범위 vs 큰 범위
+
+> ### 에이전트 vs 환경
+> 나: 에이전트 | 게임: 환경
+
+> ### 상태 vs 정책
+> 상태를 보고 어떤 알고리즘(정책) 결정?

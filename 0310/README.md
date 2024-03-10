@@ -4,7 +4,7 @@
 
 * ##### 강의 자료 https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi
 
-### 상태X 강화학습 | 보상 추정 | argmax | 데이터 절약 | 
+### 상태X 강화학습 | 보상 추정 | 데이터 절약 | 
 
 > ### 상태X 강화학습
 > 상태가 없는 강화학습 ex) 슬롯머신

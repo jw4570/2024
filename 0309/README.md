@@ -22,3 +22,5 @@
 
 > ### 상태 vs 정책
 > 상태를 보고 어떤 알고리즘(정책) 결정?
+
+https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12365.jpeg

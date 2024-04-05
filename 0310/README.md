@@ -153,4 +153,4 @@ agent.q[action] += (reward - agent.q[action]) / agent.n[action]
 
 쌤.com/2024
 
-ppt에 있는 것과 추가로 생각한 강화학습 코드 짜기 (숙제)
+*ppt에 있는 것과 추가로 생각한 강화학습 코드 짜기*
